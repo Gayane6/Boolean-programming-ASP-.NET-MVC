@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course_Work.Models.Additive" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAAAAAAAAQgAAABQAAACgAQBABAiAAEA=</HashCode>
+      <FileName>Models\Additive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.GA" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAEIAAAACBAAEAAgAAAACAAAAAIGgQBAIAAAAA=</HashCode>
+      <FileName>Models\GA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Generation" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAAAAAAEAgQCQAgAQAAAAAAAQAAAAQAAA=</HashCode>
+      <FileName>Models\Generation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Generator" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAQAEAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.ApplicationUser" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.ApplicationDbContext" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Report" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Result" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABBAAAAIAwAEAAAAAAAAQAAAAAAAQAoAEAQQE=</HashCode>
+      <FileName>Models\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Course_Work.Models.MaxMin" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Course_Work.Models.Method" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIA=</HashCode>
+      <FileName>Models\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

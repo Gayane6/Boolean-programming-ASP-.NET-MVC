@@ -1,0 +1,335 @@
+D:\download\Course_Work\Course_Work\bin\Course_Work.dll.config
+D:\download\Course_Work\Course_Work\bin\Course_Work.dll
+D:\download\Course_Work\Course_Work\bin\Course_Work.pdb
+D:\download\Course_Work\Course_Work\bin\Antlr3.Runtime.dll
+D:\download\Course_Work\Course_Work\bin\EntityFramework.dll
+D:\download\Course_Work\Course_Work\bin\EntityFramework.SqlServer.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.dll
+D:\download\Course_Work\Course_Work\bin\Microsoft.Web.Infrastructure.dll
+D:\download\Course_Work\Course_Work\bin\Newtonsoft.Json.dll
+D:\download\Course_Work\Course_Work\bin\Owin.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.Helpers.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.Mvc.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.Optimization.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.Razor.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.WebPages.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.dll
+D:\download\Course_Work\Course_Work\bin\WebGrease.dll
+D:\download\Course_Work\Course_Work\bin\System.Web.Helpers.xml
+D:\download\Course_Work\Course_Work\bin\System.Web.Mvc.xml
+D:\download\Course_Work\Course_Work\bin\System.Web.Optimization.xml
+D:\download\Course_Work\Course_Work\bin\System.Web.Razor.xml
+D:\download\Course_Work\Course_Work\bin\System.Web.WebPages.xml
+D:\download\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.xml
+D:\download\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.xml
+D:\download\Course_Work\Course_Work\bin\Newtonsoft.Json.xml
+D:\download\Course_Work\Course_Work\bin\Antlr3.Runtime.pdb
+D:\download\Course_Work\Course_Work\bin\EntityFramework.xml
+D:\download\Course_Work\Course_Work\bin\EntityFramework.SqlServer.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.xml
+D:\download\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\download\Course_Work\Course_Work\obj\Debug\Course_Work.csprojResolveAssemblyReference.cache
+D:\download\Course_Work\Course_Work\obj\Debug\Course_Work.dll
+D:\download\Course_Work\Course_Work\obj\Debug\Course_Work.pdb
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Course_Work.dll.config
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Course_Work.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Course_Work.pdb
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Antlr3.Runtime.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\EntityFramework.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\EntityFramework.SqlServer.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Web.Infrastructure.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Newtonsoft.Json.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Owin.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Helpers.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Mvc.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Optimization.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Razor.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.WebPages.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\WebGrease.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Helpers.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Mvc.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Optimization.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.Razor.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.WebPages.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Newtonsoft.Json.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Antlr3.Runtime.pdb
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\EntityFramework.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\EntityFramework.SqlServer.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\obj\Debug\Course_Work.csprojResolveAssemblyReference.cache
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\obj\Debug\Course_Work.dll
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\obj\Debug\Course_Work.pdb
+E:\3 курс(2 семестр)\ДО\Course_Work\Course_Work\bin\System.Web.DataVisualization.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Course_Work.dll.config
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Course_Work.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Course_Work.pdb
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Antlr3.Runtime.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\EntityFramework.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\EntityFramework.SqlServer.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Web.Infrastructure.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Newtonsoft.Json.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Owin.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.DataVisualization.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Helpers.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Mvc.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Optimization.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Razor.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\WebGrease.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Helpers.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Mvc.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Optimization.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.Razor.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Newtonsoft.Json.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Antlr3.Runtime.pdb
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\EntityFramework.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\EntityFramework.SqlServer.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.csprojResolveAssemblyReference.cache
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.dll
+D:\download\Telegram download\Course_Work_09.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.pdb
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Course_Work.dll.config
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Course_Work.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Course_Work.pdb
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Antlr3.Runtime.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\EntityFramework.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\EntityFramework.SqlServer.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Web.Infrastructure.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Newtonsoft.Json.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Owin.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.DataVisualization.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Helpers.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Mvc.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Optimization.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Razor.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\WebGrease.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Helpers.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Mvc.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Optimization.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.Razor.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Newtonsoft.Json.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Antlr3.Runtime.pdb
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\EntityFramework.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\EntityFramework.SqlServer.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.csprojResolveAssemblyReference.cache
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.dll
+E:\3 курс(2 семестр)\Course_Work_13.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.pdb
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Course_Work.dll.config
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Course_Work.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Course_Work.pdb
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Antlr3.Runtime.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\EntityFramework.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\EntityFramework.SqlServer.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Web.Infrastructure.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Newtonsoft.Json.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Owin.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.DataVisualization.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Helpers.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Mvc.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Optimization.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Razor.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\WebGrease.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Helpers.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Mvc.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Optimization.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.Razor.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Newtonsoft.Json.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Antlr3.Runtime.pdb
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\EntityFramework.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\EntityFramework.SqlServer.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.csprojResolveAssemblyReference.cache
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.dll
+E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\obj\Debug\Course_Work.pdb
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Course_Work.dll.config
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Course_Work.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Course_Work.pdb
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Antlr3.Runtime.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\EntityFramework.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\EntityFramework.SqlServer.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Web.Infrastructure.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Newtonsoft.Json.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Owin.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.DataVisualization.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Helpers.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Mvc.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Optimization.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Razor.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.WebPages.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\WebGrease.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Helpers.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Mvc.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Optimization.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.Razor.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.WebPages.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.WebPages.Deployment.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\System.Web.WebPages.Razor.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Newtonsoft.Json.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Antlr3.Runtime.pdb
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\EntityFramework.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\EntityFramework.SqlServer.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Core.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Facebook.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Cookies.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.OAuth.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Google.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.Twitter.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\obj\Debug\Course_Work.csprojResolveAssemblyReference.cache
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\obj\Debug\Course_Work.dll
+D:\download\Telegram download\Course_Work\Course_Work\Course_Work\obj\Debug\Course_Work.pdb

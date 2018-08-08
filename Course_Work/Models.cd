@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course_Work.Models.Additive">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAAAAAAAAAgAAABQAAACgAQBABAiAAEA=</HashCode>
+      <FileName>Models\Additive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.GA">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAEIAAIACBAAEAAgAAAACAAAAAIGgQBAIAAAAA=</HashCode>
+      <FileName>Models\GA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Generation">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAACAAAEAkQCYAgAAIAAAAIAAAAAIQAAA=</HashCode>
+      <FileName>Models\Generation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Generator">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAEAAIAAAAIAAAAIAAAAAIAAAA=</HashCode>
+      <FileName>Models\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Report">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_Work.Models.Result">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABBAAAAIAwAEAEAAIAAAQIAAAAAAAAoAMAQQE=</HashCode>
+      <FileName>Models\Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Course_Work.Models.Method">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIA=</HashCode>
+      <FileName>Models\Generator.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

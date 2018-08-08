@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Bounds="0,0,134.16,34" ErrorLevel="Error" ErrorMessage="Build error on Project: 'Course_Work.dll', there may be further information in the Error List." FilePath="$(8376cd87-7bd8-4a6e-b92d-f748b265dc9a.OutputPath)" Label="Course_Work.dll" />
+  </Nodes>
+  <Links />
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="ErrorLevel" Label="Error Level" Description="Used to associate an error level with a node or link in the graph" Group="Analysis" DataType="Microsoft.VisualStudio.Progression.ErrorLevel" />
+    <Property Id="ErrorMessage" Label="Error" Description="Error" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(8376cd87-7bd8-4a6e-b92d-f748b265dc9a.OutputPathUri)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Error" ValueLabel="Error Level">
+      <Condition Expression="HasValue('ErrorLevel')" />
+      <Setter Property="Icon" Value="Node.Error" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="8376cd87-7bd8-4a6e-b92d-f748b265dc9a.OutputPath" Value="E:\3 курс(2 семестр)\Course_Work_16.05.18\Course_Work\Course_Work\bin\Course_Work.dll" />
+    <Path Id="8376cd87-7bd8-4a6e-b92d-f748b265dc9a.OutputPathUri" Value="file:///E:/3 курс(2 семестр)/Course_Work_16.05.18/Course_Work/Course_Work/bin/Course_Work.dll" />
+  </Paths>
+</DirectedGraph>

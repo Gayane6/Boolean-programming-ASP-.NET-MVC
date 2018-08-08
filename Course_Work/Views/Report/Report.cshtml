@@ -1,0 +1,15 @@
+﻿@using Course_Work.Models;
+@model Report
+@{
+    ViewBag.Title = "Report";
+
+    <div> 
+        <h4>Тут ви можете переглянути графік залежності часу роботи від кількості змінних двох алгоритмів.</h4>  
+        <br />
+        <a href="/Report/ReportCompare" target="_blank" class="btn btn-default">Перейти до графіку залежності t від n </a>
+        <br />
+        <br />
+        <h4>Та графік оцінки роботи генетичного алгоритму, а саме залежність проценту отримання оптимального рішення від розмірності задачі.</h4>
+        <a href="/Report/ReportResult" target="_blank" class="btn btn-default">Перейти до графіку оцінки роботи ГА</a>
+    </div>
+}
